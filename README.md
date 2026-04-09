@@ -6,15 +6,6 @@ This project simulates a **real-world business intelligence system** used by org
 
 ---
 
-# 🌐 Live Demo
-
-👉 https://datawithvansh.github.io/vendor-performance-dashboard/
-
-> ⚡ Note: This is a **static demo version** hosted on GitHub Pages.
-> The full project supports dynamic backend integration using APIs.
-
----
-
 # 📊 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
