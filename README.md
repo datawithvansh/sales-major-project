@@ -52,29 +52,6 @@ This project is designed to solve key business problems:
 
 ---
 
-# 📂 Project Structure
-
-```
-vendor-performance-dashboard
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── data
-│   └── sample_data.json
-│
-├── sql
-│   └── queries.sql
-│
-├── etl
-│   └── etl_pipeline.py
-│
-├── images
-│   └── dashboard.png
-│
-└── README.md
-```
 
 ---
 
